@@ -1,0 +1,25 @@
+html {
+  color: #fff;
+  background-image: linear-gradient(#ff9500, #ff5e3a);
+  font-family: "Overpass", sans-serif;
+}
+
+i {
+  color: #fff;
+}
+
+.btn {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn:hover {
+  color: #ff5e3a;
+  border-color: #fff;
+  background-color: #fff;
+}
+
+.center-piece {
+  border-right: rgba(255, 255, 255, 1) 1px solid;
+  border-left: rgba(255, 255, 255, 1) 1px solid;
+}
